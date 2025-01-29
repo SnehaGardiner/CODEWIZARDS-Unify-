@@ -1,0 +1,69 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 30.0.100.9864]
+    Renderer: Intel(R) UHD Graphics
+    Vendor:   Intel
+    VRAM:     2111 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\DemiLib.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\DemiLib.dll into Unity Child Domain
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\DOTweenPro.dll (this message is harmless)
+Loading C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\DOTweenPro.dll into Unity Child Domain
+- Completed reload, in  0.886 seconds
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\lenovo\Desktop\Unify final\fps_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 1.735600 ms
+NextMission 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WARNING: Shader Unsupported: 'Hidden/Post FX/Temporal Anti-aliasing' - Pass '' has no vertex shader
+Warning (vp_SurfaceManager) 'CT_Road' has multiple Materials and a MeshCollider. For surface effects to work with MeshColliders, the Renderer and Collider must share the same mesh.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 42ec -> priority: 1 
